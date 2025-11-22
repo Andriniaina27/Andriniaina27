@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animation de présentation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&height=50&lines=Bonjour;J'suis+RANAIVO+Andriniaina+Luca;Développeur+Full-Stack;Passionné+par+l'innovation;Bienvenue+sur+mon+profil!" alt="Animation de présentation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=900&height=50&lines=Bonjour;Je+suis+RANAIVO+Andriniaina+Luca;Développeur+Full-Stack;Passionné+par+l'innovation;Bienvenue+sur+mon+profil!" alt="Animation de présentation" />
 
 <br/>
 <br/>
@@ -15,6 +15,7 @@
 
 ### **💻 Développement**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -27,6 +28,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### **⚙️ Outils & Bases de données**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
