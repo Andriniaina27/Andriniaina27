@@ -37,7 +37,27 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; max-width: 400px; margin: 0 auto;">
 
+### 🎯 **Contactez-moi**
+
+<div style="display: flex; align-items: center; margin: 10px 0;">
+  <img src="https://img.icons8.com/fluency/30/000000/gmail.png" alt="Email"/>
+  <span style="margin-left: 10px;">
+    <strong>Email:</strong><br/>
+    <a href="mailto:ranaivoluca3@gmail.com" style="color: white;">ranaivoluca3@gmail.com</a>
+  </span>
+</div>
+
+<div style="display: flex; align-items: center; margin: 10px 0;">
+  <img src="https://img.icons8.com/fluency/30/000000/map-marker.png" alt="Localisation"/>
+  <span style="margin-left: 10px;">
+    <strong>Localisation:</strong><br/>
+    Madagascar
+  </span>
+</div>
+
+</div>
 
 </div>
 
