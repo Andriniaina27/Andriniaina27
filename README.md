@@ -36,28 +36,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ### 📬 **Restons en contact !**
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-
-<div style="text-align: center;">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
-  <br/>
-  <strong>Email</strong>
-  <br/>
-  <a href="mailto:ranaivoluca3@gmail.com">ranaivoluca3@gmail.com</a>
-</div>
-
-<div style="text-align: center;">
-  <img src="https://img.icons8.com/fluency/48/000000/map-marker.png" alt="Localisation" width="40" height="40"/>
-  <br/>
-  <strong>Localisation</strong>
-  <br/>
-  Madagascar
-</div>
-
-</div>
+[![Email](https://img.shields.io/badge/Email-ranaivoluca3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranaivoluca3@gmail.com)
+[![Localisation](https://img.shields.io/badge/Localisation-Madagascar-28a745?style=for-the-badge&logo=map-marker-alt&logoColor=white)]()
 
 </div>
 
