@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animation de présentation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&height=50&lines=Bonjour+👋;Je+suis+RANAIVO+Andriniaina+Luca;Développeur+Full-Stack;Passionné+par+l'innovation;Bienvenue+sur+mon+profil!" alt="Animation de présentation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&height=50&lines=Bonjour;J'suis+RANAIVO+Andriniaina+Luca;Développeur+Full-Stack;Passionné+par+l'innovation;Bienvenue+sur+mon+profil!" alt="Animation de présentation" />
 
 <br/>
 <br/>
@@ -19,8 +19,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 
 ### **🎨 Frontend & Design**
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
